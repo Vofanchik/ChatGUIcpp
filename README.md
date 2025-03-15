@@ -1,9 +1,9 @@
 # Клиент-сервенрый GUI мессенджер на C++/Qt5
 
-![registration](Assets\image-1.png)
-![login](Assets\image.png)
-![Dialog](Assets\image-2.png)
-![Server control](Assets\image-3.png)
+![registration](Assets/image-1.png)
+![login](Assets/image.png)
+![Dialog](Assets/image-2.png)
+![Server control](Assets/image-3.png)
 ## Клиентаская часть
 1. Функции авторизации и регистрации
 1. Приватные сообщения
